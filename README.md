@@ -20,4 +20,4 @@
 
 ## CONTATO:
 
-📧 Email: [gabriel.original2001@gmail.com](mailto:gabriel.original2001@gmail.com)
+📧 Email: [gabriel.original2001@gmail.com](mailto:gabrielsbernardes@hotmail.com)
