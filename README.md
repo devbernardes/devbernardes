@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".assets/images/banner-portfolio.png" alt="Gabriel Bernardes - Developer" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
+  <img src="assets/images/banner-portfolio.png" alt="Gabriel Bernardes - Developer" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
 </div>
 
 # Gabriel Bernardes
