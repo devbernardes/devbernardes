@@ -4,7 +4,7 @@
 
 # Gabriel Bernardes
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Gabriel+Bernardes;Desenvolvedor+De+Softwares+ Iniciante;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Gabriel+Bernardes;Desenvolvedor+de+softwares+ iniciante;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <div align="center">
   <div style="max-width: 800px; margin: 0 auto;">
