@@ -33,23 +33,23 @@
   <div style="margin-bottom: 30px;">
     <h2>👨‍💻 Sobre Mim</h2>
       <p align="center">
-        Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Sempre em busca de novos desafios e aprendizados.
-        Experiência em desenvolvimento web, mobile e sistemas distribuídos.
+        Software developer student apaixonado por tecnologia e inovação. Sempre em busca de novos desafios e aprendizados.
+        Experiência em desenvolvimento web, com foco em Java Script, Html e Css.
       </p>
   </div>
 
   <div style="margin-bottom: 30px;">
-    <img alt="My Drawing" src=".assets/images/foto-anime.jpg" width="200" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.2); margin: 20px 0;"/>
+    <img src="assets/images/foto-anime.jpg" alt="My Drawing" width="200" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.2); margin: 20px 0;"/>
   </div>
 
   <div style="margin-bottom: 30px;">
     <h2>🌟 Principais Projetos</h2>
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
-        <a href="https://github.com/devbernardes/projeto1" style="text-decoration: none;">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbernardes&repo=projeto1&theme=tokyonight&hide_border=true">
+        <a href="https://github.com/devbernardes/projeto-portfolio" style="text-decoration: none;">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbernardes&repo=projeto-portfolio&theme=tokyonight&hide_border=true">
         </a>
-        <a href="https://github.com/devbernardes/projeto2" style="text-decoration: none;">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbernardes&repo=projeto2&theme=tokyonight&hide_border=true">
+        <a href="https://github.com/devbernardes/challenge-amigo-secreto" style="text-decoration: none;">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbernardes&repo=challenge-amigo-secreto&theme=tokyonight&hide_border=true">
         </a>
       </div>
   </div>
@@ -57,11 +57,9 @@
   <div>
     <h2>📱 Contatos</h2>
       <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px; justify-content: center;">
-        <a href="https://instagram.com/devbernardes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-        <a href="https://www.twitch.tv/devbernardes" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-        <a href="https://discord.gg/devbernardes" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-        <a href="mailto:devbernardes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-        <a href="https://www.linkedin.com/in/devbernardes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://www.instagram.com/bernardess_sants/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+        <a href="mailto:gabriel.s.bernardes@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/gabriesbernardes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </div>
   </div>
 
