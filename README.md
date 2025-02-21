@@ -38,8 +38,8 @@
   </div>
 
   <div style="margin-bottom: 30px;">
-    <div style="width: 200px; height: 200px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-      <img src="assets/images/foto-anime.jpg" alt="Meu Desenho" width="200" height="200" style="display: block; object-fit: cover;"/>
+    <div style="width: 200px; height: 200px; overflow: hidden; margin: 0 auto;">
+      <img src="assets/images/foto-anime.png" alt="Meu Desenho" width="200" height="200" style="display: block; object-fit: cover;"/>
     </div>
   </div>
 
