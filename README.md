@@ -38,7 +38,7 @@
   </div>
 
   <div style="margin-bottom: 30px;">
-    <img src="assets/images/foto-anime.jpg" alt="Meu Desenho" width="200" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.2); margin: 20px 0;" align="center"/>
+    <img src="assets/images/foto-anime.jpg" alt="Meu Desenho" width="200" height="200" style="border-radius: 100%;" align="center"/>
   </div>
 
   <div style="margin-bottom: 30px;">
