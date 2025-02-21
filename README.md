@@ -1,8 +1,7 @@
 <div align="center">
   <img src="assets/images/banner-portfolio.png" alt="Gabriel Bernardes - Developer" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
+  <h1>Gabriel Bernardes</h1>
 </div>
-
-# Gabriel Bernardes
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Gabriel+Bernardes;Desenvolvedor+de+softwares+iniciante;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
