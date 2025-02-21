@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".assets/banner-portfolio.png" alt="Gabriel Bernardes - Developer" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
+  <img src=".assets/images/banner-portfolio.png" alt="Gabriel Bernardes - Developer" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
 </div>
 
 # Gabriel Bernardes
@@ -39,7 +39,7 @@
   </div>
 
   <div style="margin-bottom: 30px;">
-    <img alt="My Drawing" src="./foto-anime.jpg" width="200" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.2); margin: 20px 0;"/>
+    <img alt="My Drawing" src=".assets/images/foto-anime.jpg" width="200" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.2); margin: 20px 0;"/>
   </div>
 
   <div style="margin-bottom: 30px;">
