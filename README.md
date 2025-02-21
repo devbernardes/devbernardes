@@ -1,12 +1,11 @@
 ### Olá, eu sou o Gabriel Bernardes! Seja bem-vindo 👋
 
-![banner-portfolio](https://github.com/user-attachments/assets/9b6edb50-6f1b-4242-9a44-8c0d2014c161)
-
+![Bernardes GitHub stats](https://github-readme-stats.vercel.app/api?username=devbernardes&show_icons=true&theme=dracula)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santana2001/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/75851558589733286)
 
-![Bernardes GitHub stats](https://github-readme-stats.vercel.app/api?username=devbernardes&show_icons=true&theme=dracula)
+<img align="right" width="150" src="./assets/images/64 Sem Título_20250220213133.jpg" alt="My Drawing"/>
 
 ## Tecnologias do meu dia a dia
 
